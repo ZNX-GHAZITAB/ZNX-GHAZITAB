@@ -1,7 +1,7 @@
 <h1 align="center">⚔️ Welcome to My GitHub ⚔️</h1>  
 
 <p align="center">
-  <img src="https://imgur.com/a/1HbVZoj" width="150" height="150" style="border-radius: 50%;" alt="Profile Picture"/>
+  <img src="https://i.imgur.com/gAmDRdc.jpeg" width="150" height="150" style="border-radius: 50%;" alt="Profile Picture"/>
 </p>
 
 <p align="center">
